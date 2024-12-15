@@ -70,5 +70,17 @@ I’m a **Software Engineer** passionate about automation, cloud platforms, and 
 | ![Forage](https://img.shields.io/badge/Forage-00A7D1?style=for-the-badge&logo=forage&logoColor=white) **ANZ Australia - Cyber Security Management Job Simulation** | ![Qualys](https://img.shields.io/badge/Qualys-EC3E3C?style=for-the-badge&logo=qualys&logoColor=white) **Vulnerability Management Detection & Response** | ![Cisco](https://img.shields.io/badge/Cisco-1D9B1E?style=for-the-badge&logo=cisco&logoColor=white) **Cyber Threat Management** |
 | **Credential ID**: 95Kc6kB26is4QpAw6 | **Credential**: [View Credential](https://www.qualys.com/certificates) | **Credential**: [View Credential](https://www.cisco.com/c/en/us/training-events/training-certifications/cybersecurity.html) |
 
-| **[
+| **[National Association of State Boards of Accountancy (NASBA)](https://www.nasba.org/)** | **[Project Management Institute](https://www.pmi.org/)** | **[IriusRisk](https://www.iriusrisk.com/)** |
+| --- | --- | --- |
+| ![NASBA](https://img.shields.io/badge/NASBA-004B87?style=for-the-badge&logo=national-association-of-state-boards-of-accountancy&logoColor=white) **Cybersecurity Awareness** | ![PMI](https://img.shields.io/badge/PMI-0076A3?style=for-the-badge&logo=pmi&logoColor=white) **Cybersecurity Foundations** | ![IriusRisk](https://img.shields.io/badge/IriusRisk-56B4D3?style=for-the-badge&logo=iriusrisk&logoColor=white) **Threat Modeling Certified Derisker** |
+| **Credential**: [View Credential](https://www.nasba.org/) | **Credential**: [View Credential](https://www.pmi.org/) | **Credential**: [View Credential](https://www.iriusrisk.com/) |
 
+---
+
+## ✨ **Let’s Connect!**  
+I’m always open to collaborating, learning, and solving challenges together.  
+- 💌 **Email**: [shreeshk07@gmail.com](mailto:shreeshk07@gmail.com)  
+- 🌐 **LinkedIn**: [Shreesh Kallihal](https://www.linkedin.com/in/shreeshk)  
+- 🌍 **Visit My Website**: [shreeshk.super.site](https://shreeshk.super.site)
+
+---
