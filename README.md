@@ -14,7 +14,7 @@ I am a security engineer in Dublin with an MSc in Cybersecurity (1:1 Honours) fr
 
 My work has three habits. I investigate an alert until I know the root cause. I write Python so the same manual task never has to be done twice. I test my own builds the way an attacker would, then fix what I find and write it up in plain language.
 
-<img src="assets/numbers.svg" width="100%" alt="About 2 years of security operations on AWS, 100+ TryHackMe rooms, 10+ security articles, 1 peer reviewed paper, 99.87 percent intrusion detection accuracy, 2 vulnerabilities responsibly disclosed.">
+<img src="assets/stats.svg" width="100%" alt="About 2 years of security operations on AWS, 100+ TryHackMe rooms, 10+ security articles, 1 peer reviewed paper, 99.87 percent intrusion detection accuracy, 2 vulnerabilities responsibly disclosed.">
 
 ## Featured work
 
