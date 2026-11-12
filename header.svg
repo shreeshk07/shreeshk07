@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" role="img" aria-label="Shreesh Kallihal. Security engineer in Dublin. Detection, incident response and Python automation.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e1a24"/><stop offset="1" stop-color="#152a38"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb454" stop-opacity="0"/><stop offset="1" stop-color="#ffb454" stop-opacity=".55"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#8bd5ca" opacity=".16"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="320" rx="18"/></clipPath>
+    <clipPath id="t1"><rect x="72" y="196" height="44" width="0"><animate attributeName="width" dur="12s" begin="0s" repeatCount="indefinite" values="0;500;500;0;0" keyTimes="0;0.11;0.29;0.333;1"/></rect></clipPath>
+    <clipPath id="t2"><rect x="72" y="196" height="44" width="0"><animate attributeName="width" dur="12s" begin="4s" repeatCount="indefinite" values="0;560;560;0;0" keyTimes="0;0.11;0.29;0.333;1"/></rect></clipPath>
+    <clipPath id="t3"><rect x="72" y="196" height="44" width="0"><animate attributeName="width" dur="12s" begin="8s" repeatCount="indefinite" values="0;470;470;0;0" keyTimes="0;0.11;0.29;0.333;1"/></rect></clipPath>
+  </defs>
+  <style>
+    .name{font:700 62px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e8eef2;letter-spacing:-1px}
+    .tag{font:500 21px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#8ea3b0}
+    .type{font:600 25px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#ffb454}
+    .rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+    .d1{animation-delay:.15s}.d2{animation-delay:.45s}.d3{animation-delay:.8s}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+    .spin{transform-origin:1010px 160px;animation:spin 5s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .blip{opacity:0;animation:blip 5s ease-out infinite}
+    .b2{animation-delay:1.7s}.b3{animation-delay:3.3s}
+    @keyframes blip{0%{opacity:0}4%{opacity:1}40%{opacity:0}100%{opacity:0}}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.spin,.blip,.cur,.rise{animation:none;opacity:1}}
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#dots)"/>
+    <!-- radar -->
+    <g fill="none" stroke="#8bd5ca" stroke-opacity=".28">
+      <circle cx="1010" cy="160" r="118"/><circle cx="1010" cy="160" r="80"/><circle cx="1010" cy="160" r="42"/>
+      <path d="M892 160H1128M1010 42V278"/>
+    </g>
+    <g class="spin">
+      <path d="M1010 160 L1128 160 A118 118 0 0 0 1093.4 76.6 Z" fill="url(#sweep)"/>
+      <path d="M1010 160H1128" stroke="#ffb454" stroke-width="2"/>
+    </g>
+    <circle class="blip" cx="1062" cy="112" r="5" fill="#ffb454"/>
+    <circle class="blip b2" cx="962" cy="204" r="5" fill="#8bd5ca"/>
+    <circle class="blip b3" cx="1046" cy="226" r="5" fill="#ffb454"/>
+    <circle cx="1010" cy="160" r="4" fill="#e8eef2"/>
+    <!-- text -->
+    <text class="tag rise d1" x="72" y="92">Dublin, Ireland  /  MSc Cybersecurity, 1:1 Honours</text>
+    <text class="name rise d2" x="70" y="164">Shreesh Kallihal</text>
+    <g class="rise d3">
+      <text class="type" x="72" y="226" clip-path="url(#t1)" textLength="480">&gt; detects it, contains it, writes it up</text>
+      <text class="type" x="72" y="226" clip-path="url(#t2)" textLength="540">&gt; automates the boring 40 minutes in Python</text>
+      <text class="type" x="72" y="226" clip-path="url(#t3)" textLength="450">&gt; breaks it first, then fixes it properly</text>
+      <rect class="cur" y="202" width="12" height="28" fill="#ffb454" x="76">
+        <animate attributeName="x" dur="12s" repeatCount="indefinite"
+          values="76;560;560;76; 76;620;620;76; 76;530;530;76"
+          keyTimes="0;0.0367;0.0967;0.111; 0.3333;0.37;0.43;0.4443; 0.6667;0.7033;0.7633;0.7777"/>
+      </rect>
+    </g>
+    <text class="tag rise d3" x="72" y="276" style="font-size:17px">Security operations  ·  Detection engineering  ·  Vulnerability management  ·  Application security</text>
+  </g>
+</svg>

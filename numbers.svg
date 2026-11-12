@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="100%" role="img" aria-label="Six numbers: 2 years of security operations on AWS, 100 plus TryHackMe rooms, 10 plus published articles, 1 peer reviewed paper, 99.87 percent detection accuracy, 2 vulnerabilities responsibly disclosed.">
+  <style>
+    .n{font:700 38px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#ffb454}
+    .l{font:500 14.5px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#b9c8d1}
+    .t{opacity:0;animation:up .7s cubic-bezier(.2,.7,.2,1) forwards}
+    .bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow .9s ease-out forwards}
+    @keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+    @keyframes grow{to{transform:scaleX(1)}}
+    @media (prefers-reduced-motion:reduce){.t,.bar{animation:none;opacity:1;transform:none}}
+  </style>
+  <g>
+    <g class="t" style="animation-delay:.0s"><rect x="0" y="0" width="190" height="150" rx="14" fill="#0e1a24"/><text class="n" x="20" y="62">~2 yrs</text><rect class="bar" style="animation-delay:.4s" x="20" y="76" width="44" height="3" rx="1.5" fill="#8bd5ca"/><text class="l" x="20" y="104">security operations</text><text class="l" x="20" y="124">on AWS</text></g>
+    <g class="t" style="animation-delay:.1s"><rect x="202" y="0" width="190" height="150" rx="14" fill="#0e1a24"/><text class="n" x="222" y="62">100+</text><rect class="bar" style="animation-delay:.5s" x="222" y="76" width="44" height="3" rx="1.5" fill="#8bd5ca"/><text class="l" x="222" y="104">TryHackMe rooms</text><text class="l" x="222" y="124">completed</text></g>
+    <g class="t" style="animation-delay:.2s"><rect x="404" y="0" width="190" height="150" rx="14" fill="#0e1a24"/><text class="n" x="424" y="62">10+</text><rect class="bar" style="animation-delay:.6s" x="424" y="76" width="44" height="3" rx="1.5" fill="#8bd5ca"/><text class="l" x="424" y="104">security articles</text><text class="l" x="424" y="124">on Medium</text></g>
+    <g class="t" style="animation-delay:.3s"><rect x="606" y="0" width="190" height="150" rx="14" fill="#0e1a24"/><text class="n" x="626" y="62">1</text><rect class="bar" style="animation-delay:.7s" x="626" y="76" width="44" height="3" rx="1.5" fill="#8bd5ca"/><text class="l" x="626" y="104">peer reviewed</text><text class="l" x="626" y="124">research paper</text></g>
+    <g class="t" style="animation-delay:.4s"><rect x="808" y="0" width="190" height="150" rx="14" fill="#0e1a24"/><text class="n" x="828" y="62">99.87%</text><rect class="bar" style="animation-delay:.8s" x="828" y="76" width="44" height="3" rx="1.5" fill="#8bd5ca"/><text class="l" x="828" y="104">intrusion detection</text><text class="l" x="828" y="124">accuracy (XGBoost)</text></g>
+    <g class="t" style="animation-delay:.5s"><rect x="1010" y="0" width="190" height="150" rx="14" fill="#0e1a24"/><text class="n" x="1030" y="62">2</text><rect class="bar" style="animation-delay:.9s" x="1030" y="76" width="44" height="3" rx="1.5" fill="#8bd5ca"/><text class="l" x="1030" y="104">vulnerabilities</text><text class="l" x="1030" y="124">responsibly disclosed</text></g>
+  </g>
+</svg>
